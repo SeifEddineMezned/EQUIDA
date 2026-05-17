@@ -4,7 +4,7 @@
 
 <h1 align="center">EQUIDA</h1>
 <h3 align="center">Equity Intelligence Diligence Analytics</h3>
-<p align="center"><em>1000% Autonomous, Production-Grade Private Equity Platform</em></p>
+<p align="center"><em>100% Autonomous, Production-Grade Private Equity Platform</em></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-UI%20Framework-61DAFB?style=flat-square&logo=react&logoColor=black"/>
