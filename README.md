@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1492227953583460362/1505461232570990632/content.png?ex=6a0ab587&is=6a096407&hm=5105613d9c817e742312f3c399510d95f7bfb6c70ded6343e0bfee8f3a1c7107" alt="Equida Platform" width="300"/>
+  <img src="https://cdn.discordapp.com/attachments/1492227953583460362/1505311956586729472/content.png?ex=6a0a2a81&is=6a08d901&hm=377074dabdf6cc8135ab8283eb8855d109e564f19571979f30136b543d1eeea0" alt="Equida Platform" width="300"/>
 </p>
 
 <h1 align="center">EQUIDA</h1>
