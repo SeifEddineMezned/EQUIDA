@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/EQUIDA-Autonomous%20Diligence%20Platform-3766AD?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDJMMiA3TDEyIDEyTDIyIDdMMTIgMloiIGZpbGw9IiNmZmYiLz48cGF0aCBkPSJNMjIgMTdMMTIgMjJMMiAxN0wxMiAxMkwyMiAxN1oiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNSIvPjwvc3ZnPg==&logoColor=white" alt="Equida Platform"/>
+  <img src="https://cdn.discordapp.com/attachments/1492227953583460362/1505461232570990632/content.png?ex=6a0ab587&is=6a096407&hm=5105613d9c817e742312f3c399510d95f7bfb6c70ded6343e0bfee8f3a1c7107" alt="Equida Platform" width="300"/>
 </p>
 
 <h1 align="center">EQUIDA</h1>
