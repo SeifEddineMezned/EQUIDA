@@ -198,6 +198,8 @@ python main.py
 ```
 *The FastAPI server runs on `http://localhost:8000` and immediately loads the model tensors to your GPU.*
 
+> **Note**: The fine-tuned Unsloth model weights (`equida-finance-model`) are ignored in this repository due to GitHub size limits. However, the exact inference pipeline is fully visible in `backend/llm_engine.py`. 
+
 ---
 
 <p align="center"><strong>EQUIDA</strong> — Institutional Intelligence. Zero Compromises.</p>
