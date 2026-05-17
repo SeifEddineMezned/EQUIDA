@@ -1,0 +1,10 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+.env
+.DS_Store
+equida-finance-model/

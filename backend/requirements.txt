@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+torch
+transformers
+sqlalchemy
+psycopg2-binary
+pgvector
+beautifulsoup4
+requests
+unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git
